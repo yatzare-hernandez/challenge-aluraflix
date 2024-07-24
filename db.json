@@ -1,0 +1,76 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Box Model y Box sizing",
+        "category": "Frontend",
+        "imageUrl": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__7_.webp?updatedAt=1683420539290",
+        "videoUrl": "https://www.youtube.com/watch?v=ts9qfCKamKg",
+        "description": "Vamos a entender que es Box Model, uno de los conceptos fundamentales para la construcción correcta de layouts de páginas web. "
+      },
+      {
+        "id": 2,
+        "title": "Simplificando tu código en Java: Conoce los enum",
+        "category": "Backend",
+        "imageUrl": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__4_.webp?updatedAt=1683420408357",
+        "videoUrl": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+        "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? simplificaremos esta tarea usando un tipo de dato especial llamado enum."
+      },
+      {
+        "id": 3,
+        "title": "¿Por qué utilizar React?",
+        "category": "Frontend",
+        "imageUrl": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__9_.webp?updatedAt=1683420539407",
+        "videoUrl": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+        "description": "Platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React. "
+      },
+      {
+        "id": 4,
+        "title": "Consejos de CSS FlexBox para comenzar",
+        "category": "Frontend",
+        "imageUrl": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__11_.webp?updatedAt=1683420539420",
+        "videoUrl": "https://www.youtube.com/watch?v=EB4vWLzfVcI",
+        "description": "Aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas."
+      },
+      {
+        "id": 5,
+        "title": "Spring Framework. ¿Qué es? ",
+        "category": "Backend",
+        "imageUrl": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__5_.webp?updatedAt=1683420408323",
+        "videoUrl": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+        "description": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java."
+      },
+      {
+        "id": 6,
+        "title": "Banco de datos MySQL",
+        "category": "Backend",
+        "imageUrl": "https://ik.imagekit.io/noj6wnuqy/AluraFLix/hqdefault__2_.webp?updatedAt=1683420408360",
+        "videoUrl": "https://www.youtube.com/watch?v=8J0AoPZMVxA",
+        "description": "Explicaremos y exploraremos las herramientas de Oracle."
+      },
+      {
+        "id": 7,
+        "title": "Desafíos y soluciones del trabajo remoto",
+        "category": "Productividad",
+        "imageUrl": "https://img.youtube.com/vi/kIvnVfnmDyE/0.jpg",
+        "videoUrl": "https://youtu.be/kIvnVfnmDyE?si=k6Vsrx0BKMLpw8jf",
+        "description": "Vamos a ver cuáles son los desafíos y las soluciones que las empresas y los colaboradores enfrentan con el trabajo remoto."
+      },
+      {
+        "id": 8,
+        "title": "Técnicas para mejorar tu aprendizaje",
+        "category": "Productividad",
+        "imageUrl": "https://img.youtube.com/vi/KSyqCUAr2CU/0.jpg",
+        "videoUrl": "https://youtu.be/KSyqCUAr2CU?si=3zzsf2LM0EEIyvul",
+        "description": "Veremos las mejores técnicas para mejorar tu aprendizaje y retención."
+      },
+      {
+        "id": 9,
+        "title": "Cómo ser más productivo",
+        "category": "Productividad",
+        "imageUrl": "https://img.youtube.com/vi/TF_Rde1kbw8/0.jpg",
+        "videoUrl": "https://youtu.be/TF_Rde1kbw8?si=GYD4dLxG8VhooyMF",
+        "description": "Gabriela Aguiar, nos explicará sobre la productividad y exploraremos técnicas probadas y estrategias innovadoras para impulsar tu eficiencia."
+      }
+    ]
+  } 
